@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-guessing-game-challenge/static/css/main.310bd32f.css",
+    "main.js": "/color-guessing-game-challenge/static/js/main.57c7b9e6.js",
+    "index.html": "/color-guessing-game-challenge/index.html",
+    "main.310bd32f.css.map": "/color-guessing-game-challenge/static/css/main.310bd32f.css.map",
+    "main.57c7b9e6.js.map": "/color-guessing-game-challenge/static/js/main.57c7b9e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.310bd32f.css",
+    "static/js/main.57c7b9e6.js"
+  ]
+}
